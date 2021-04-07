@@ -1,0 +1,17 @@
+# Node Modules
+dist/
+node_modules/*
+package-lock.json
+
+# Coverages
+coverage/
+
+# Misc
+.Rhistory
+.idea/
+.DS_Store
+.vscode
+.settings
+
+# Do not put the generated documentation in master
+docs/
